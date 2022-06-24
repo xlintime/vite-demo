@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1 className="app-title">App test</h1>
+        <h1 className="app-title">App test2</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>Hello Vite + React! sss</p>
         <p>
